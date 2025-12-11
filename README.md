@@ -1,4 +1,4 @@
-# COMP1004 Coursework - Vehicle details Website with database backend
+# Vehicle details Website with database backend
 
 Coursework for Databases and Interfaces module, allowing interaction with vehicle database.
 
